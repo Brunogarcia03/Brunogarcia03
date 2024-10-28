@@ -34,6 +34,7 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src= "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -64,7 +65,7 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-## My Portfolio
+## 
 <a href="https://portfolio-psi-hazel-84.vercel.app">
-  Bruno García Portfolio
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRobDIxOGg4aDU1NjRrbnAxZGM3Zzhtc2c1c3ZucmFvcDc3ZmM3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/MzUplcoS0HIzNIdP3T/200.webp">
 </a>
