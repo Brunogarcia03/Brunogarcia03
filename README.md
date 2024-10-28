@@ -1,5 +1,5 @@
 <h1 align="center" style="display: flex; align-items: center; justify-content: center; margin-button: 10px;">
-  <b>Hi, I'm Bruno. A FullStack Web Developer </b>
+  <b>💻🚀 Hi, I'm Bruno. A FullStack Web Developer</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <!--  -->
