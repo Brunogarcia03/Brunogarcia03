@@ -66,5 +66,5 @@ if __name__ == '__main__':
 
 ## My Portfolio
 <a href="https://portfolio-psi-hazel-84.vercel.app">
-  <h1>Bruno García Portfolio</h1>
+  Bruno García Portfolio
 </a>
