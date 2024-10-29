@@ -18,7 +18,7 @@ class BrunoData():
     self.location = "Alberti, Buenos Aires. Argentina";
     self.work = "FullStack Web Developer and Programming Instructor";
     self.stack = ["Mern", "Nest.js + Next.js"]
-    self.web = "https://portfolio-psi-hazel-84.vercel.app";
+    self.web = "https://brunodev.online/";
   
   def __str__(self):
     return self.name
@@ -59,6 +59,9 @@ if __name__ == '__main__':
 ## Check out my Social Media
 <a>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.canva.com/design/DAFbJcYWOvU/RJbDj3-kw0e7yKH8G5js8A/view?utm_content=DAFbJcYWOvU&utm_campaign=designshare&utm_medium=link&utm_source=editor" title="Go to my Curriculum Vitae">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Go%20to%20my-CV-%230e3569?link=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAFbJcYWOvU%2FRJbDj3-kw0e7yKH8G5js8A%2Fview%3Futm_content%3DDAFbJcYWOvU%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink%26utm_source%3Deditor" height="28" style="border-radius: 0;">
 </a>
 <a>
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
