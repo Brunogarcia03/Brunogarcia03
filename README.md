@@ -74,6 +74,6 @@ if __name__ == '__main__':
 </a>
 
 ## 
-<a href="https://brunodev.online/">
+<a href="https://brunog.com.ar/">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRobDIxOGg4aDU1NjRrbnAxZGM3Zzhtc2c1c3ZucmFvcDc3ZmM3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/MzUplcoS0HIzNIdP3T/200.webp">
 </a>
